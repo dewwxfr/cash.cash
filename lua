@@ -8,6 +8,8 @@ lowgfx = true -- // no textures😱🤑
 
 nodecals = false -- // no decals😱🤑
 
+local rotationSpeed = 12 -- // spinbot lets hvh😱🤑
+
 
 
 
